@@ -1,0 +1,22 @@
+G = [
+        [inf, inf, inf, inf, inf, inf, inf, inf],
+        [inf, inf, 25, inf, inf, inf, 15, inf],
+        [inf, 25, inf, 12, inf, inf, inf, 10],
+        [inf, inf, 12, inf, 8, inf, inf, inf],
+        [inf, inf, inf, 8, inf, 16, inf, 14],
+        [inf, inf, inf, inf, 16, inf, 20, 18],
+        [inf, 5, inf, inf, inf, 20, inf, inf],
+        [inf, inf, 10, inf, 14, 18, inf, inf]
+    ]
+
+G = [
+		[inf, 4, inf, inf, inf, inf, inf, 8, inf], 
+        [4, inf, 8, inf, inf, inf, inf, 11, inf], 
+        [inf, 8, inf, 7, inf, 4, inf, inf, 2], 
+        [inf, inf, 7, inf, 9, 14, inf, inf, inf], 
+        [inf, inf, inf, 9, inf, 10, inf, inf, inf], 
+        [inf, inf, 4, 14, 10, inf, 2, inf, inf], 
+        [inf, inf, inf, inf, inf, 2, inf, 1, 6], 
+        [8, 11, inf, inf, inf, inf, 1, inf, 7], 
+        [inf, inf, 2, inf, inf, inf, 6, 7, inf] 
+	] 
